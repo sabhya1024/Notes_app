@@ -63,15 +63,6 @@ Open your browser and visit: <code>http://localhost:5000</code>
 
 ---
 
-<h2>🖼️ Screenshots</h2>
-
-<p align="center">
-  <img src="screenshots/homepage.png" alt="Home Page" width="300">
-  <img src="screenshots/create-note.png" alt="Create Note" width="300">
-  <img src="screenshots/note-detail.png" alt="Note Details" width="300">
-</p>
-
----
 
 <h2>📁 Project Structure</h2>
 
