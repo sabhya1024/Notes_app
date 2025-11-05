@@ -1,0 +1,21 @@
+{
+  "name": "project-2-notes",
+  "version": "1.0.0",
+  "description": "\"Hey this is a notes app for practice\"",
+  "main": "index.js", 
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend  && npm run build --prefix frontend",
+    "start":"npm run start --prefix backend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabhya1024/Notes_app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabhya1024/Notes_app/issues"
+  },
+  "homepage": "https://github.com/sabhya1024/Notes_app#readme"
+}
