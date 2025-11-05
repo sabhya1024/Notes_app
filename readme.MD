@@ -1,32 +1,24 @@
 <h1 align="center">📝 Notes App</h1>
 
 <p align="center">
-  A simple <strong>Notes App</strong> built with <strong>React, Node.js, Express, and MongoDB</strong>.<br>
+  A simple <strong>Notes App</strong> built with React, Node.js, Express, and MongoDB.<br>
   Create, read, update, and delete notes with a responsive UI and toast notifications.
 </p>
 
-<p align="center">
-  <a href="https://github.com/sabhya1024/Notes_app"><img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repo"></a>
-  <img src="https://img.shields.io/badge/License-ISC-green?style=for-the-badge" alt="License">
-  <img src="https://img.shields.io/badge/React-17.0.2-blue?style=for-the-badge&logo=react" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-18.0.0-green?style=for-the-badge&logo=node.js" alt="Node.js">
-</p>
-
----
+<hr>
 
 <h2>🌟 Features</h2>
 <ul>
-  <li>Create new notes with <strong>title</strong> and <strong>content</strong></li>
+  <li>Create new notes with a title and content</li>
   <li>View all notes</li>
   <li>Edit and update notes</li>
   <li>Delete notes</li>
-  <li>Responsive UI with <strong>Tailwind CSS</strong> and <strong>DaisyUI</strong></li>
-  <li>Toast notifications using <strong>react-hot-toast</strong></li>
-  <li>Optional rate limiting for sensitive actions</li>
-  <li>SPA routing with <strong>React Router</strong></li>
+  <li>Responsive UI with Tailwind CSS and DaisyUI</li>
+  <li>Toast notifications using react-hot-toast</li>
+  <li>SPA routing with React Router</li>
 </ul>
 
----
+<hr>
 
 <h2>🛠️ Tech Stack</h2>
 <ul>
@@ -38,34 +30,34 @@
   <li><strong>Environment Variables:</strong> dotenv</li>
 </ul>
 
----
+<hr>
 
 <h2>💻 Getting Started</h2>
 
 <h3>Prerequisites</h3>
 <ul>
-  <li>Node.js (v18+ recommended)</li>
+  <li>Node.js</li>
   <li>npm</li>
-  <li>MongoDB instance or MongoDB Atlas URI</li>
+  <li>MongoDB instance (local or Atlas)</li>
 </ul>
 
 <h3>Installation</h3>
 <pre>
 git clone https://github.com/sabhya1024/Notes_app.git
 cd Notes_app
+
 npm install --prefix backend
 npm install --prefix frontend
+
 npm run build --prefix frontend
 npm run start --prefix backend
 </pre>
 
-Open your browser and visit: <code>http://localhost:5000</code>
+<p>Open your browser and visit <code>http://localhost:3000</code></p>
 
----
-
+<hr>
 
 <h2>📁 Project Structure</h2>
-
 <pre>
 Notes_app/
 ├─ backend/       # Node.js + Express API
@@ -75,17 +67,12 @@ Notes_app/
 └─ README.md
 </pre>
 
----
+<hr>
 
-<h2>🤝 Contributing</h2>
-<p>Contributions are welcome! Feel free to submit a PR or open an issue.</p>
+<h2>ℹ️ Notes</h2>
+<p>This project is for practice and learning purposes.</p>
 
----
-
-<h2>📜 License</h2>
-<p>This project is licensed under the <strong>ISC License</strong>.</p>
-
----
+<hr>
 
 <h2>🔗 Links</h2>
 <ul>
